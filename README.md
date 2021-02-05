@@ -1,33 +1,18 @@
-"The Complete Web Development Bootcamp"  
+Simon Game made using jQuery
 
-* Instructor: Angela Yu, lead instructor at the London App Brewery  
-* Platform: Udemy  
-* Course link: https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12374106)  
+Instructions:  
 
-Content:
-- Front-End Web Development
-- HTML 5
-- CSS 3
-- Bootstrap 4
-- Javascript ES6
-- DOM Manipulation
-- jQuery
-- Bash Command Line
-- Git, GitHub and Version Control
-- Backend Web Development
-- Node.js
-- NPM
-- Express.js
-- EJS
-- REST
-- APIs
-- Databases
-- SQL
-- MongoDB
-- Mongoose
-- Authentication
-- Firebase
-- React.js
-- React Hooks
-- Web Design
-- Deployment with GitHub Pages, Heroku and MongoDB Atlas
+- Press any key to start the game
+
+- Follow the sequence dictated by the game
+
+- If you succeed, you will go on to the next level
+
+- If you fail, the game will end
+
+- But you can always start a new one by pressing any key again! ;)
+
+*This project is part of "The Complete 2021 Web Development Bootcamp" by Angela Yu in Udemy.
+
+Course: https://www.udemy.com/course/the-complete-web-development-bootcamp/  
+Repository with the rest of the projects: https://github.com/SalomeMM/Online-WebDevBootcamp
