@@ -1,5 +1,5 @@
 Simon Game made using jQuery.  
-Deployed: https://hungry-wing-9e9d7e.netlify.app/
+Deployed: https://bit.ly/3aF9UkW
 
 Instructions:  
 
