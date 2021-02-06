@@ -1,4 +1,4 @@
-Simon Game made using jQuery
+Simon Game made using jQuery.  
 Deployed: https://hungry-wing-9e9d7e.netlify.app/
 
 Instructions:  
